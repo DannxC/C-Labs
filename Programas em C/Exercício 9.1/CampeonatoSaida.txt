@@ -1,0 +1,30 @@
+R E S U L T A D O S  D E  U M  C A M P E O N A T O
+
+Listagem dos times:
+
+                  Time
+----------------------
+              Alemanha
+                Brasil
+        Estados Unidos
+          Gra Bretanha
+             Argentina
+
+Resultados dos jogos:
+
+                          Ale     Bra     Est     Gra     Arg 
+              Alemanha   #####   3 x 1   4 x 2   2 x 0   1 x 1
+                Brasil   3 x 2   #####   2 x 1   2 x 2   1 x 2
+        Estados Unidos   2 x 3   1 x 2   #####   3 x 1   2 x 1
+          Gra Bretanha   3 x 3   2 x 1   4 x 2   #####   0 x 0
+             Argentina   2 x 2   2 x 1   1 x 0   1 x 1   #####
+
+Tabela de desempenho dos times:
+
+                  Time |    Pontos |  Vitorias |     G Pro |  G Contra |   Saldo G
+----------------------------------------------------------------------------------
+              Alemanha |         0 |         0 |         0 |         0 |         0
+                Brasil |         0 |         0 |         0 |         0 |         0
+        Estados Unidos |         0 |         0 |         0 |         0 |         0
+          Gra Bretanha |         0 |         0 |         0 |         0 |         0
+             Argentina |         0 |         0 |         0 |         0 |         0

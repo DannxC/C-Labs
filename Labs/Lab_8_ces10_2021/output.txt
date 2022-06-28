@@ -1,0 +1,14 @@
+C O N V E R S O E S  D E  B A S E S  P A R A  A  B A S E  10
+
+Foram realizadas 8 conversoes:
+
+(101101101)2 = (365)10
+(423014)5 = (14134)10
+(42501)5 = Dados incompativeis
+(AB3K)12 = Dados incompativeis
+(AB375)12 = (226889)10
+(FFFF)16 = (65535)10
+(FFGF)16 = Dados incompativeis
+(JJJJ)20 = (159999)10
+
+Soma dos numeros validos: (466922)10
